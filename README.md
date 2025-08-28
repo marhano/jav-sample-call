@@ -11,5 +11,5 @@ in the terminal run
 
 ``` 
 ./gradlew clean build
-./gradle run
+./gradlew run
 ```
