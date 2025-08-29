@@ -13,7 +13,7 @@ in the terminal run
 ./gradlew run
 ```
 ### eclipse
-1. install eclipse https://www.eclipse.org/downloads/packages/
+1. install [eclipse](https://www.eclipse.org/downloads/packages/release/2025-06/r/eclipse-ide-java-developers) 
 2. create a workspace
 3. import projects
   <img width="247" height="401" alt="image" src="https://github.com/user-attachments/assets/ec53f334-9168-4d0f-acfd-78a754ea50ce" />
