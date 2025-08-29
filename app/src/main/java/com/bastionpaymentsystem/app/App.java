@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 import org.json.JSONArray;
 import org.json.JSONObject;
 public class App {
-    private static final String API_URL = "http://beta-webopicollectpayment.paybps.ovpn/apiv2";
+    private static final String API_URL = "https://opibizcollectpayment.omni.money/apiv2";
 
     private static final String MERCHANT_ID = "OM25030C00008888888";
     private static final String TERMINAL_ID = "VPHP001";
